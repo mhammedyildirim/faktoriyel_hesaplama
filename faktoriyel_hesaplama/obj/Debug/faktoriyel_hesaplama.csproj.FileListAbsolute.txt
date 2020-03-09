@@ -1,0 +1,6 @@
+C:\Users\muhammed\Desktop\odev_son\faktoriyel_hesaplama\faktoriyel_hesaplama\bin\Debug\faktoriyel_hesaplama.exe.config
+C:\Users\muhammed\Desktop\odev_son\faktoriyel_hesaplama\faktoriyel_hesaplama\bin\Debug\faktoriyel_hesaplama.exe
+C:\Users\muhammed\Desktop\odev_son\faktoriyel_hesaplama\faktoriyel_hesaplama\bin\Debug\faktoriyel_hesaplama.pdb
+C:\Users\muhammed\Desktop\odev_son\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\odev_son\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.exe
+C:\Users\muhammed\Desktop\odev_son\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.pdb
